@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "releaseDate": "2026-11-25",
+  "notes": [
+    "Optional Reason and Duplicate columns.",
+    "Updated application branding.",
+    "Developer signature in About page.",
+    "Corrected duplicate-row highlighting color.",
+    "Improved application packaging and release reliability."
+  ],
+  "setupUrl": "https://github.com/omarsaiidahmed-bit/Balbaa-Auto-Order-System/releases/download/v0.2.0/Balbaa-Auto-Order-System-0.2.0-setup.exe",
+  "portableUrl": "https://github.com/omarsaiidahmed-bit/Balbaa-Auto-Order-System/releases/download/v0.2.0/Balbaa-Auto-Order-System-0.2.0-portable.exe"
+}
